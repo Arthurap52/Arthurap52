@@ -1,6 +1,7 @@
 ### Eae!! Aqui é o José Arthur!
 
 - 🌱 Eu atualmente estou cursando Ciencia da computação
+- 📗 Estudando muito javascript e typescript atualmente
 - 😄 Pronomes: Ele/Dele
 
 <div>
